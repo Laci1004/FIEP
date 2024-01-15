@@ -1,0 +1,506 @@
+Representative,ReportDate,TransactionDate,Ticker,Transaction,Range,House,Amount,Party,last_modified
+James French Hill,1/10/2024,12/29/2023,PYPL,Sale,"$15,001 - $50,000",Representatives,15001,R,1/11/2024
+James French Hill,1/10/2024,12/29/2023,SCHW,Sale,"$50,001 - $100,000",Representatives,50001,R,1/11/2024
+Josh Gottheimer,1/7/2024,12/29/2023,NOC,Purchase,"$15,001 - $50,000",Representatives,15001,D,1/9/2024
+Shelley Moore Capito,1/12/2024,12/29/2023,TFC,Sale (Partial),"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Laurel Mrs Lee,1/4/2024,12/29/2023,BABA,Sale,"$100,001 - $250,000",Representatives,100001,R,1/9/2024
+Pete Sessions,12/28/2023,12/28/2023,CCI,Sale,"$1,001 - $15,000",Representatives,1001,R,12/30/2023
+Bill Hagerty,1/10/2024,12/27/2023,DDOG,Sale (Full),"$1,001 - $15,000",Senate,1001,R,1/11/2024
+Rudy Yakym Iii,12/27/2023,12/27/2023,"6.MONTH, MATURE",Purchase,"$15,001 - $50,000",Representatives,15001,R,12/28/2023
+Tommy Tuberville,1/12/2024,12/26/2023,VZ,Sale (Partial),"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/26/2023,RF,Sale (Full),"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/26/2023,KEY,Purchase,"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/26/2023,PARA,Purchase,"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Richard W. Allen,1/11/2024,12/21/2023,ALB,Sale,"$1,001 - $15,000",Representatives,1001,R,1/12/2024
+Richard W. Allen,1/11/2024,12/21/2023,NEE,Sale,"$15,001 - $50,000",Representatives,15001,R,1/12/2024
+Josh Gottheimer,1/7/2024,12/21/2023,LZAGY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/21/2023,DBSDY,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Richard W. Allen,1/11/2024,12/21/2023,ALB,Sale,"$1,001 - $15,000",Representatives,1001,R,1/12/2024
+Josh Gottheimer,1/7/2024,12/20/2023,AMD,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/20/2023,LOPE,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+John Boozman,1/8/2024,12/20/2023,LRCX,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/8/2024
+Josh Gottheimer,1/7/2024,12/20/2023,COP,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/20/2023,MA,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/20/2023,UMBF,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/20/2023,TPH,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/20/2023,HLI,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/20/2023,INTA,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Max Miller,12/21/2023,12/20/2023,GLAS FUNDS,Purchase,"$15,001 - $50,000",Representatives,15001,R,
+John Boozman,1/8/2024,12/20/2023,PFE,Purchase,"$1,001 - $15,000",Senate,1001,R,1/8/2024
+Tommy Tuberville,1/12/2024,12/19/2023,UAA,Sale (Full),"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Virginia Foxx,1/4/2024,12/19/2023,DUK$A,Purchase,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+Shelley Moore Capito,1/12/2024,12/19/2023,JPM,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/19/2023,ACN,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/19/2023,ADI,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/19/2023,AAPL,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/19/2023,MSFT,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/18/2023,GOLD,Purchase,"$50,001 - $100,000",Senate,50001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/18/2023,CVX,Sale (Full),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/18/2023,GOLD,Sale (Full),"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/18/2023,MDLZ,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/18/2023,CVX,Sale (Full),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/18/2023,MSFT,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/18/2023,GOLD,Sale (Full),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Thomas R. Carper,1/3/2024,12/18/2023,XCEM,Purchase,"$15,001 - $50,000",Senate,15001,D,1/3/2024
+Shelley Moore Capito,1/12/2024,12/18/2023,KO,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Thomas R. Carper,1/3/2024,12/18/2023,SBPYX,Purchase,"$15,001 - $50,000",Senate,15001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/18/2023,FDRR,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/18/2023,SMDV,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/18/2023,XCEM,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Shelley Moore Capito,1/12/2024,12/18/2023,PFE,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Michael C. Burgess,1/8/2024,12/15/2023,UPS,Sale,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+Pete Sessions,12/26/2023,12/15/2023,BUI,Sale,"$1,001 - $15,000",Representatives,1001,R,12/27/2023
+Lloyd Doggett,1/8/2024,12/15/2023,KO,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Michael C. Burgess,1/8/2024,12/15/2023,UPS,Purchase,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+Tommy Tuberville,1/12/2024,12/14/2023,CVX,Purchase,"$50,001 - $100,000",Senate,50001,R,1/12/2024
+Richard W. Allen,1/11/2024,12/14/2023,SCHW,Purchase,"$50,001 - $100,000",Representatives,50001,R,1/12/2024
+Michael C. Burgess,1/8/2024,12/14/2023,UPS,Sale,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+Michael C. Burgess,1/8/2024,12/14/2023,UPS,Purchase,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+Thomas R. Carper,1/3/2024,12/14/2023,HDGE,Sale (Full),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Virginia Foxx,1/4/2024,12/14/2023,EFC$D,Exchange,"$15,001 - $50,000",Representatives,15001,R,1/9/2024
+Thomas R. Carper,1/3/2024,12/14/2023,HDGE,Sale (Full),"$15,001 - $50,000",Senate,15001,D,1/3/2024
+Lloyd Doggett,1/8/2024,12/14/2023,HD,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/14/2023,ORCL,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/14/2023,HDGE,Sale (Full),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Earl Blumenauer,1/4/2024,12/13/2023,ALK,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+John Hickenlooper,1/11/2024,12/13/2023,CMG,Sale (Partial),"$100,001 - $250,000",Senate,100001,D,1/11/2024
+Tommy Tuberville,1/12/2024,12/13/2023,CVX,Purchase,"$100,001 - $250,000",Senate,100001,R,1/12/2024
+Max Miller,12/19/2023,12/12/2023,"GLAS FUNDS, LP",Purchase,$982.18 ,Representatives,982.18,R,
+John Boozman,1/8/2024,12/12/2023,GBIL,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,1/8/2024
+John Boozman,1/8/2024,12/12/2023,PALL,Purchase,"$1,001 - $15,000",Senate,1001,R,1/8/2024
+Tommy Tuberville,1/12/2024,12/12/2023,GOLD,Purchase,"$15,001 - $50,000",Senate,15001,R,1/12/2024
+Tommy Tuberville,1/12/2024,12/12/2023,DVA,Sale (Full),"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Lloyd Doggett,1/8/2024,12/12/2023,PPG,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+John Boozman,1/8/2024,12/12/2023,PALL,Purchase,"$1,001 - $15,000",Senate,1001,R,1/8/2024
+Thomas R. Carper,1/3/2024,12/11/2023,SBUX,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,BAP,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,FLNG,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/11/2023,DGX,Sale (Partial),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,EW,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,URA,Sale (Partial),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/11/2023,VLO,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,GTLS,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,PYCR,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,HSHCY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,MOS,Sale (Partial),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/11/2023,GLPI,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,PNGAY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,PTEN,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,KMB,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/11/2023,FNF,Sale (Full),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,ALGM,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,TSM,Sale (Partial),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,HELE,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,IRM,Sale (Partial),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Thomas R. Carper,1/3/2024,12/11/2023,AGX,Sale (Full),"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,XNGSY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Steve Cohen,1/4/2024,12/11/2023,KD,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Thomas R. Carper,1/3/2024,12/11/2023,FMC,Purchase,"$1,001 - $15,000",Senate,1001,D,1/3/2024
+Josh Gottheimer,1/7/2024,12/11/2023,DHI,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Lloyd Doggett,1/8/2024,12/11/2023,IBM,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,SHLS,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,LOW,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Tommy Tuberville,1/12/2024,12/11/2023,GOLD,Purchase,"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Josh Gottheimer,1/7/2024,12/11/2023,ALNY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,OCFC,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Steve Cohen,1/4/2024,12/11/2023,DTRUY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,SSDOY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/11/2023,ON,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Michael C. Burgess,12/18/2023,12/8/2023,BX,Purchase,"$15,001 - $50,000",Representatives,15001,R,
+Virginia Foxx,1/4/2024,12/8/2023,CRT,Purchase,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+Michael C. Burgess,12/18/2023,12/8/2023,ABBV,Sale,"$1,001 - $15,000",Representatives,1001,R,
+Michael C. Burgess,12/18/2023,12/8/2023,BX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+Michael C. Burgess,12/18/2023,12/8/2023,PANW,Purchase,"$15,001 - $50,000",Representatives,15001,R,
+Michael C. Burgess,12/18/2023,12/8/2023,VLO,Purchase,"$15,001 - $50,000",Representatives,15001,R,
+Josh Gottheimer,1/7/2024,12/7/2023,BNTX,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Earl Blumenauer,1/4/2024,12/7/2023,DEO,Purchase,"$15,001 - $50,000",Representatives,15001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/6/2023,BNTX,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Pete Sessions,12/26/2023,12/6/2023,NVDA,Purchase,$456.00 ,Representatives,456,R,12/27/2023
+Josh Gottheimer,1/7/2024,12/6/2023,FANUY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Michael C. Burgess,12/18/2023,12/6/2023,CME,Sale,"$15,001 - $50,000",Representatives,15001,R,
+Josh Gottheimer,1/7/2024,12/6/2023,SONY,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/5/2023,BNTX,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/5/2023,SBGSY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Josh Gottheimer,1/7/2024,12/5/2023,LZAGY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+A. Mitchell Jr. McConnell,12/18/2023,12/5/2023,WFC,Purchase,"$1,001 - $15,000",Senate,1001,R,
+Markwayne Mullin,12/28/2023,12/5/2023,VLTO,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/29/2023
+Josh Gottheimer,1/7/2024,12/5/2023,PPRUY,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Debbie Dingell,12/14/2023,12/5/2023,MDT,Purchase,"$15,001 - $50,000",Representatives,15001,D,
+Lloyd Doggett,1/8/2024,12/5/2023,JNJ,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+John Curtis,12/15/2023,12/4/2023,TMO,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,META,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,VLO,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,MA,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,CAT,Sale,"$1,001 - $15,000",Representatives,1001,R,
+Josh Gottheimer,1/7/2024,12/4/2023,MNST,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+John Curtis,12/15/2023,12/4/2023,LLY,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,COST,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,PANW,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,EMR,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,STZ,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,ZTS,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,HLT,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,ELV,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,TXN,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,FI,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,CVX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,HD,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,KO,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,GS,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,EW,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,DHR,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,AXP,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,DE,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,AAPL,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,SPGI,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,TMUS,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,BRK.B,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,CSX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,LRCX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,GOOG,Sale,"$15,001 - $50,000",Representatives,15001,R,
+John Curtis,12/15/2023,12/4/2023,SHW,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,BLK,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,AZO,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,BSX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,V,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,ICE,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,CRM,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,ADBE,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,JPM,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,COP,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,NVDA,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,HON,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,UNH,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,RTX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,CMG,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,AMZN,Sale,"$15,001 - $50,000",Representatives,15001,R,
+John Curtis,12/15/2023,12/4/2023,ABT,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,MSFT,Sale,"$15,001 - $50,000",Representatives,15001,R,
+John Curtis,12/15/2023,12/4/2023,AMAT,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,KLAC,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,SBUX,Sale,"$1,001 - $15,000",Representatives,1001,R,
+Virginia Foxx,1/4/2024,12/4/2023,FLNG,Purchase,"$1,001 - $15,000",Representatives,1001,R,1/9/2024
+John Curtis,12/15/2023,12/4/2023,PG,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,PEP,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,UNP,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,AMD,Sale,"$1,001 - $15,000",Representatives,1001,R,
+John Curtis,12/15/2023,12/4/2023,CMCSA,Sale,"$1,001 - $15,000",Representatives,1001,R,
+Josh Gottheimer,1/7/2024,12/4/2023,CELH,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+John Curtis,12/15/2023,12/4/2023,NKE,Sale,"$1,001 - $15,000",Representatives,1001,R,
+Shelley Moore Capito,1/12/2024,12/1/2023,CVX,Purchase,"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Josh Gottheimer,1/7/2024,12/1/2023,CRM,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Shelley Moore Capito,1/12/2024,12/1/2023,CSCO,Purchase,"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Josh Gottheimer,1/7/2024,12/1/2023,GOOG,Sale,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Shelley Moore Capito,1/12/2024,12/1/2023,CMCSA,Purchase,"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Shelley Moore Capito,1/12/2024,12/1/2023,SPGI,Purchase,"$1,001 - $15,000",Senate,1001,R,1/12/2024
+Josh Gottheimer,1/7/2024,12/1/2023,COCO,Purchase,"$1,001 - $15,000",Representatives,1001,D,1/9/2024
+Carol Devine Miller,12/7/2023,11/30/2023,IGSB,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Shelley Moore Capito,12/11/2023,11/30/2023,MSFT,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/11/2023
+Pete Sessions,12/26/2023,11/29/2023,T,Sale,"$1,001 - $15,000",Representatives,1001,R,12/27/2023
+Josh Gottheimer,12/8/2023,11/29/2023,GOOGL,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Sheldon Whitehouse,12/7/2023,11/29/2023,VLTO,Sale (Full),"$1,001 - $15,000",Senate,1001,D,12/8/2023
+Sheldon Whitehouse,12/7/2023,11/29/2023,VLTO,Sale (Full),"$1,001 - $15,000",Senate,1001,D,12/8/2023
+John Boozman,12/12/2023,11/29/2023,TLT,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/12/2023
+Virginia Foxx,12/5/2023,11/29/2023,CRT,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Josh Gottheimer,12/8/2023,11/29/2023,NOW,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Sheldon Whitehouse,12/7/2023,11/29/2023,VLTO,Sale (Full),"$1,001 - $15,000",Senate,1001,D,12/8/2023
+John Boozman,12/12/2023,11/29/2023,SHY,Purchase,"$1,001 - $15,000",Senate,1001,R,12/12/2023
+Josh Gottheimer,12/8/2023,11/28/2023,HCA,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Virginia Foxx,12/5/2023,11/28/2023,AAIC$B,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Carol Devine Miller,12/7/2023,11/28/2023,CORP,Sale,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Josh Gottheimer,12/8/2023,11/28/2023,TMO,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Virginia Foxx,12/5/2023,11/28/2023,FLNG,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Virginia Foxx,12/5/2023,11/28/2023,CRT,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Josh Gottheimer,12/8/2023,11/28/2023,PANW,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Shelley Moore Capito,12/19/2023,11/27/2023,WFC,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,
+Josh Gottheimer,12/8/2023,11/27/2023,ROK,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Shelley Moore Capito,12/19/2023,11/27/2023,SHEL,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Josh Gottheimer,12/8/2023,11/27/2023,PWR,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Nancy Pelosi,12/21/2023,11/22/2023,NVDA,Purchase,"$1,000,001 - $5,000,000",Representatives,1000001,D,
+James French Hill,12/13/2023,11/22/2023,MO,Sale,"$50,001 - $100,000",Representatives,50001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,PCH,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,PM,Sale,"$100,001 - $250,000",Representatives,100001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,V,Purchase,"$50,001 - $100,000",Representatives,50001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,PCH,Purchase,"$15,001 - $50,000",Representatives,15001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,FIS,Purchase,"$15,001 - $50,000",Representatives,15001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,MKL,Purchase,"$50,001 - $100,000",Representatives,50001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,INTC,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/14/2023
+Josh Gottheimer,12/8/2023,11/22/2023,NOW,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+James French Hill,12/13/2023,11/22/2023,MMM,Purchase,"$15,001 - $50,000",Representatives,15001,R,12/14/2023
+James French Hill,12/13/2023,11/22/2023,WBD,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/14/2023
+Josh Gottheimer,12/8/2023,11/22/2023,CRM,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+James French Hill,12/13/2023,11/22/2023,PCH,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/14/2023
+Tommy Tuberville,12/15/2023,11/22/2023,MDLZ,Purchase,"$1,001 - $15,000",Senate,1001,R,
+Tommy Tuberville,12/15/2023,11/21/2023,KEY,Purchase,"$15,001 - $50,000",Senate,15001,R,
+Tommy Tuberville,12/15/2023,11/21/2023,CLF,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Tommy Tuberville,12/15/2023,11/21/2023,FGBI,Sale (Full),"$15,001 - $50,000",Senate,15001,R,
+Josh Gottheimer,12/8/2023,11/20/2023,MNST,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Tommy Tuberville,12/15/2023,11/20/2023,ABBV,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Josh Gottheimer,12/8/2023,11/20/2023,CELH,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Tina Smith,11/20/2023,11/16/2023,AORT,Purchase,"$50,001 - $100,000",Senate,50001,D,11/20/2023
+Sheldon Whitehouse,12/7/2023,11/16/2023,KMB,Sale (Full),"$50,001 - $100,000",Senate,50001,D,12/8/2023
+Tommy Tuberville,12/15/2023,11/16/2023,BMY,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Jonathan Jackson,12/4/2023,11/16/2023,CHX,Sale,"$15,001 - $50,000",Representatives,15001,D,12/5/2023
+Jonathan Jackson,12/4/2023,11/16/2023,ASML,Sale,"$15,001 - $50,000",Representatives,15001,D,12/5/2023
+Josh Gottheimer,12/8/2023,11/16/2023,MCK,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/16/2023,AZO,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Jonathan Jackson,12/4/2023,11/16/2023,HON,Sale,"$50,001 - $100,000",Representatives,50001,D,12/5/2023
+Josh Gottheimer,12/8/2023,11/16/2023,DASH,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/16/2023,LLY,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Lloyd Doggett,12/18/2023,11/15/2023,PG,Purchase,"$1,001 - $15,000",Representatives,1001,D,
+Tommy Tuberville,12/15/2023,11/15/2023,AMAT,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Tommy Tuberville,12/15/2023,11/15/2023,MCHP,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Earl Blumenauer,12/4/2023,11/15/2023,NWN,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/5/2023
+Josh Gottheimer,12/8/2023,11/15/2023,INTA,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Kevin Hern,12/7/2023,11/15/2023,MMC,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Virginia Foxx,12/5/2023,11/15/2023,ARLP,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Kevin Hern,12/7/2023,11/15/2023,ACN,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Kevin Hern,12/7/2023,11/14/2023,OKE,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Kevin Hern,12/7/2023,11/14/2023,OKE,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Josh Gottheimer,12/8/2023,11/14/2023,MSFT,Sale,"$1,000,001 - $5,000,000",Representatives,1000001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/14/2023,MSFT,Sale,"$5,000,001 - $25,000,000",Representatives,5000001,D,12/11/2023
+Kevin Hern,12/7/2023,11/14/2023,TXN,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/8/2023
+Tommy Tuberville,12/15/2023,11/14/2023,OXY,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Josh Gottheimer,12/8/2023,11/14/2023,MSFT,Purchase,"$1,000,001 - $5,000,000",Representatives,1000001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/14/2023,MSFT,Purchase,"$5,000,001 - $25,000,000",Representatives,5000001,D,12/11/2023
+Tommy Tuberville,12/15/2023,11/14/2023,OXY,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Josh Gottheimer,12/8/2023,11/13/2023,EXAS,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Gerald E. Connolly,11/14/2023,11/13/2023,SAIC,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,12/8/2023,11/13/2023,REGN,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Michael Patrick Guest,12/11/2023,11/13/2023,ULTA,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/12/2023
+Josh Gottheimer,12/8/2023,11/13/2023,LLY,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/13/2023,HCA,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Michael Patrick Guest,12/11/2023,11/13/2023,MEDP,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/12/2023
+Michael Patrick Guest,12/11/2023,11/13/2023,EVVTY,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/12/2023
+Michael Patrick Guest,12/11/2023,11/13/2023,UBER,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/12/2023
+Gerald E. Connolly,11/14/2023,11/13/2023,LDOS,Sale,"$15,001 - $50,000",Representatives,15001,D,11/16/2023
+Michael Patrick Guest,12/11/2023,11/13/2023,DT,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/12/2023
+Gerald E. Connolly,11/14/2023,11/13/2023,D,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Virginia Foxx,12/5/2023,11/10/2023,USDP,Sale,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Tina Smith,11/20/2023,11/10/2023,AORT,Purchase,"$50,001 - $100,000",Senate,50001,D,11/20/2023
+Josh Gottheimer,12/8/2023,11/10/2023,GOOG,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/9/2023,ASML,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Earl Blumenauer,12/4/2023,11/9/2023,PYPL,Sale,"$1,001 - $15,000",Representatives,1001,D,12/5/2023
+Josh Gottheimer,12/8/2023,11/9/2023,MNST,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Tommy Tuberville,12/15/2023,11/9/2023,MSFT,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+Tommy Tuberville,12/15/2023,11/9/2023,CLF,Sale (Full),"$1,001 - $15,000",Senate,1001,R,
+John Boozman,12/12/2023,11/8/2023,TLH,Purchase,"$1,001 - $15,000",Senate,1001,R,12/12/2023
+Josh Gottheimer,12/8/2023,11/8/2023,ADBE,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/8/2023,CRM,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/8/2023,ABBV,Sale,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Josh Gottheimer,12/8/2023,11/8/2023,NOW,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Sheldon Whitehouse,12/7/2023,11/8/2023,CELH,Purchase,"$1,001 - $15,000",Senate,1001,D,12/8/2023
+Tina Smith,11/20/2023,11/8/2023,TCMD,Purchase,"$100,001 - $250,000",Senate,100001,D,11/20/2023
+Earl Blumenauer,12/4/2023,11/8/2023,IP,Sale,"$1,001 - $15,000",Representatives,1001,D,12/5/2023
+John Boozman,12/12/2023,11/7/2023,JMBS,Purchase,"$1,001 - $15,000",Senate,1001,R,12/12/2023
+John Boozman,12/12/2023,11/7/2023,GIGB,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/12/2023
+John Boozman,12/12/2023,11/7/2023,GBIL,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/12/2023
+John Boozman,12/12/2023,11/7/2023,TLT,Purchase,"$1,001 - $15,000",Senate,1001,R,12/12/2023
+John Boozman,12/12/2023,11/7/2023,SHY,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/12/2023
+Tommy Tuberville,12/15/2023,11/7/2023,X,Purchase,"$1,001 - $15,000",Senate,1001,R,
+John Boozman,12/12/2023,11/7/2023,MBB,Purchase,"$1,001 - $15,000",Senate,1001,R,12/12/2023
+Jonathan Jackson,12/4/2023,11/7/2023,TMUS,Purchase,"$15,001 - $50,000",Representatives,15001,D,12/5/2023
+John Boozman,12/12/2023,11/7/2023,CMBS,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/12/2023
+John Boozman,12/12/2023,11/7/2023,AGZ,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,12/12/2023
+Pete Sessions,11/7/2023,11/3/2023,MPW,Sale,$257.49 ,Representatives,257.49,R,11/16/2023
+Carol Devine Miller,12/7/2023,11/3/2023,UNP,Sale,"$15,001 - $50,000",Representatives,15001,R,12/8/2023
+Carol Devine Miller,12/7/2023,11/3/2023,EOG,Purchase,"$15,001 - $50,000",Representatives,15001,R,12/8/2023
+Pete Sessions,11/7/2023,11/2/2023,LOW,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Josh Gottheimer,12/8/2023,11/2/2023,CELH,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Virginia Foxx,12/5/2023,11/2/2023,T$A,Purchase,"$1,001 - $15,000",Representatives,1001,R,12/6/2023
+Pete Sessions,11/7/2023,11/2/2023,BNS,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Pete Sessions,11/7/2023,11/1/2023,AAPL,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Pete Sessions,11/7/2023,11/1/2023,WBD,Sale,$476.63 ,Representatives,476.63,R,11/16/2023
+Pete Sessions,11/7/2023,11/1/2023,ARCC,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Michael Patrick Guest,11/20/2023,11/1/2023,ANET,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/21/2023
+Josh Gottheimer,12/8/2023,11/1/2023,ANET,Purchase,"$1,001 - $15,000",Representatives,1001,D,12/11/2023
+Pete Sessions,11/7/2023,11/1/2023,MSFT,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+Pete Sessions,11/7/2023,10/31/2023,MCD,Sale,"$100,001 ",Representatives,100001,R,11/16/2023
+Pete Sessions,11/7/2023,10/31/2023,CCI,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Kevin Hern,11/17/2023,10/31/2023,JPM,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/21/2023
+Pete Sessions,11/7/2023,10/31/2023,ET,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Partial),"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLF,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Pete Sessions,11/7/2023,10/31/2023,SNOW,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,HPQ,Sale (Full),"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Pete Sessions,11/7/2023,10/31/2023,LMT,Sale,"$100,001 - $250,000",Representatives,100001,R,11/16/2023
+Pete Sessions,11/7/2023,10/31/2023,VZ,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Partial),"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Partial),"$100,001 - $250,000",Senate,100001,R,11/17/2023
+Pete Sessions,11/7/2023,10/31/2023,CMG,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Pete Sessions,11/7/2023,10/31/2023,BP,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLF,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Pete Sessions,11/7/2023,10/31/2023,CMG,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Partial),"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Partial),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Pete Sessions,11/7/2023,10/31/2023,BUI,Sale,"$250,001 - $500,000",Representatives,250001,R,11/16/2023
+Pete Sessions,11/7/2023,10/31/2023,PG,Sale,"$100,001 - $250,000",Representatives,100001,R,11/16/2023
+Pete Sessions,11/7/2023,10/31/2023,T,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,KMB,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Pete Sessions,11/7/2023,10/31/2023,WBD,Sale,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/31/2023,KMB,Sale (Full),"$100,001 - $250,000",Senate,100001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Full),"$50,001 - $100,000",Senate,50001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/31/2023,CLX,Sale (Partial),"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Josh Gottheimer,11/11/2023,10/30/2023,AAPL,Purchase,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/30/2023,SHW,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/30/2023,EL,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Jonathan Jackson,11/16/2023,10/30/2023,HSY,Sale,"$15,001 - $50,000",Representatives,15001,D,11/17/2023
+Jonathan Jackson,11/16/2023,10/30/2023,LULU,Purchase,"$15,001 - $50,000",Representatives,15001,D,11/17/2023
+Josh Gottheimer,11/11/2023,10/30/2023,GWW,Purchase,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Tommy Tuberville,11/16/2023,10/30/2023,HPQ,Purchase,"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Josh Gottheimer,11/11/2023,10/27/2023,ICFI,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,ON,Purchase,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,ALG,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,ALGN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,MSFT,Purchase,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,PRIM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Michael Patrick Guest,11/20/2023,10/27/2023,INSW,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/21/2023
+Josh Gottheimer,11/11/2023,10/27/2023,HDB,Purchase,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,SGEN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,ALGM,Purchase,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/27/2023,ISRG,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/26/2023,META,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Josh Gottheimer,11/11/2023,10/25/2023,GOOG,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Michael Patrick Guest,11/20/2023,10/25/2023,UEC,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/21/2023
+Tommy Tuberville,11/16/2023,10/25/2023,CLX,Purchase,"$100,001 - $250,000",Senate,100001,R,11/17/2023
+Virginia Foxx,11/7/2023,10/25/2023,HTGC,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ZTS,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,INTC,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AMGN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,LLY,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,V,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,CMCSA,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PG,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,TSLA,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ISRG,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MRK,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,BDX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,HWM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,SYK,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,DIS,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,COP,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PGR,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MSFT,Sale,"$15,001 - $50,000",Representatives,15001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,SBUX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ELV,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,GS,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ORCL,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,UNP,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,J,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,DE,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PANW,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ABT,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AMAT,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,CSCO,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PLD,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,WMT,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,COST,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ADBE,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,CB,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ACN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PEP,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,TMO,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+Maria Elvira Salazar,11/8/2023,10/24/2023,NEP,Sale,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,GILD,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,NKE,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PFE,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,BLK,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,NOW,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,META,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AXP,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MA,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+Maria Elvira Salazar,11/8/2023,10/24/2023,NFE,Purchase,"$15,001 - $50,000",Representatives,15001,R,11/16/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MDLZ,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,IBM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,WFC,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,INTU,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,BALL,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,GOOG,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,DHR,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,CAT,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PH,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,LOW,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,TJX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,XOM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,JNJ,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,LIN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AMZN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,TMUS,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,C,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,HD,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,GOOGL,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MS,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AVGO,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,BRK.B,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,KO,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,BAC,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,CRM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,CVX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ADI,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,TXN,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,QCOM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AAPL,Sale,"$15,001 - $50,000",Representatives,15001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,VZ,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AXON,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MMC,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,NFLX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,PM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,UPS,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,ABBV,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,LRCX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,T,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MCD,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,BMY,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,NEE,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,MDT,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,UNH,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,VRTX,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,AMD,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,NVDA,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,JPM,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+HON. GREG STANTON,11/9/2023,10/24/2023,SPGI,Sale,"$1,001 - $15,000",Representatives,1001,D,11/20/2023
+Tommy Tuberville,11/16/2023,10/23/2023,HPQ,Sale (Full),"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Virginia Foxx,11/7/2023,10/23/2023,HTGC,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Tommy Tuberville,11/16/2023,10/23/2023,HPQ,Purchase,"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/23/2023,CLF,Purchase,"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Thomas R. Carper,11/2/2023,10/20/2023,PSQ,Sale (Full),"$1,001 - $15,000",Senate,1001,D,11/2/2023
+Thomas R. Carper,11/2/2023,10/20/2023,HDGE,Purchase,"$1,001 - $15,000",Senate,1001,D,11/2/2023
+Robert E. Latta,10/21/2023,10/20/2023,FMBA,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Thomas R. Carper,11/2/2023,10/20/2023,HDGE,Purchase,"$1,001 - $15,000",Senate,1001,D,11/2/2023
+Thomas R. Carper,11/2/2023,10/20/2023,PSQ,Sale (Full),"$1,001 - $15,000",Senate,1001,D,11/2/2023
+Virginia Foxx,11/7/2023,10/20/2023,HTGC,Purchase,"$1,001 - $15,000",Representatives,1001,R,11/16/2023
+Thomas R. Carper,11/2/2023,10/20/2023,HDGE,Purchase,"$1,001 - $15,000",Senate,1001,D,11/2/2023
+Thomas R. Carper,11/2/2023,10/20/2023,PSQ,Sale (Full),"$1,001 - $15,000",Senate,1001,D,11/2/2023
+Josh Gottheimer,11/11/2023,10/18/2023,SHYF,Sale,"$1,001 - $15,000",Representatives,1001,D,11/16/2023
+Tommy Tuberville,11/16/2023,10/18/2023,CLF,Purchase,"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,ITW,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,SWKS,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,AMAT,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,MCHP,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,MNST,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,GGG,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TSLA,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,AMAT,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TSLA,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TSLA,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,RMD,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,NXPI,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TXN,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,META,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,KO,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,MMM,Purchase,"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,BMY,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TXN,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TXN,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,AON,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TXN,Purchase,"$15,001 - $50,000",Senate,15001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,PHM,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,FTNT,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,ABBV,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TXN,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,AMAT,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,WMS,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,MMC,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,UNP,Sale (Full),"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,SCCO,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
+Tommy Tuberville,11/16/2023,10/17/2023,TSLA,Purchase,"$1,001 - $15,000",Senate,1001,R,11/17/2023
